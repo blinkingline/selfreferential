@@ -1,2 +1,3 @@
 # selfreferential
-Stuff about me. 
+
+This is literally just the basics. 
